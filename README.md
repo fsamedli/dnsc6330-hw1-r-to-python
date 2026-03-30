@@ -27,3 +27,6 @@ All outputs are deterministic and match the R workflow.
 ## Files
 - `hw1_compas_python.ipynb` ← main notebook (or `.py`)
 - `README.md`
+## AI Assistance Statement
+AI assistance (Grok) was used solely to draft and refine this README.md file to improve clarity and professionalism.  
+The entire Python notebook (`hw1_compas_python.ipynb`) — including data loading, preprocessing, factor engineering, logistic regression, model diagnostics, and fairness analysis — was implemented by the author. Only minor guidance was received on GitHub navigation and repository setup.
